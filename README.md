@@ -17,3 +17,8 @@ and running one of the tests in the CUDA samples showed 749 GFlops... good enoug
 This project is the first of several as I work up to the level of CUDA ( and C++ - I am a bit rusty...)
 proficiency I would like to have. Typical of me, and programmers in general, I have not commented much 
 in the code. I kept the whole thing as simple as possible when I could.
+
+Note: on my machine I have a 'working' folder 'C:\CPP\CUDA Samples'  with the CUDA sample code projects.
+This  project is in the 'C:\CPP\CUDA Samples\v10.0\1_Utilities\MFCApplication1' folder. 
+You may have to do some editing for your particular location ( and where the 'CUDA Samples\v10.0\common' 
+folder is for the includes ).
